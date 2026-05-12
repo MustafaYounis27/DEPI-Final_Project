@@ -38,7 +38,7 @@ public class AuditLogger : IAuditLogger
             action = AuditAction.Login,
             entity_name = null,
             entity_id = null,
-            details = success ? $"login_success:{usernameAttempted}" : $"login_failure:{usernameAttempted}",
+            details = success ? null : usernameAttempted,
             created_at = DateTime.UtcNow
         });
         await _db.SaveChangesAsync();
