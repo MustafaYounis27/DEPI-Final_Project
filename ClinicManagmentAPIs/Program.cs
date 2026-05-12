@@ -38,7 +38,7 @@ builder.Services.AddScoped<IUserService, UserService>();
 builder.Services.AddScoped<ISpecialtyService, SpecialtyService>();
 builder.Services.AddScoped<IDoctorService, DoctorService>();
 builder.Services.AddScoped<IPatientService, PatientService>();
-// builder.Services.AddScoped<IAppointmentService, AppointmentService>();
+builder.Services.AddScoped<IAppointmentService, AppointmentService>();
 // builder.Services.AddScoped<IPatientHistoryService, PatientHistoryService>();
 // builder.Services.AddScoped<IVitalsService, VitalsService>();
 // builder.Services.AddScoped<IInvoiceService, InvoiceService>();
