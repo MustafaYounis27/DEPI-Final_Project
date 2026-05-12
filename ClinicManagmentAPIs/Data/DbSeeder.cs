@@ -6,16 +6,9 @@ namespace ClinicManagmentAPIs.Data;
 
 public static class DbSeeder
 {
-    // BEFORE running `dotnet ef migrations add InitialCreate`, generate a BCrypt hash of "Admin@123"
-    // on your Windows dev box (e.g. in a C# scratchpad:
-    //     Console.WriteLine(BCrypt.Net.BCrypt.HashPassword("Admin@123"));
-    // ) and paste the ~60-char hash here. DO NOT leave this placeholder in place — the migration
-    // will compile but the seeded admin will be unable to log in.
-    //
-    // After updating the hash, run on Windows from the project directory:
-    //     dotnet ef migrations add InitialCreate -o Data/Migrations
-    //     dotnet ef database update
-    private const string AdminPasswordHash = "$2a$11$REPLACE_ME_WITH_GENERATED_HASH";
+    // BCrypt hash of "Admin@123" (cost 11). Change this in any non-dev environment.
+    // Format $2b$ is produced by most BCrypt libraries; BCrypt.Net-Next accepts both $2a$ and $2b$.
+    private const string AdminPasswordHash = "$2b$11$e7bOtTSI63Pjs4N7B/0Xju./.J6SLOnZlFUjCtkxcLRrfjLoYGmYa";
 
     public static void Apply(ModelBuilder b)
     {
