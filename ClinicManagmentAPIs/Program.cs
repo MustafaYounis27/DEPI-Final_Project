@@ -41,8 +41,8 @@ builder.Services.AddScoped<IPatientService, PatientService>();
 builder.Services.AddScoped<IAppointmentService, AppointmentService>();
 builder.Services.AddScoped<IPatientHistoryService, PatientHistoryService>();
 builder.Services.AddScoped<IVitalsService, VitalsService>();
-// builder.Services.AddScoped<IInvoiceService, InvoiceService>();
-// builder.Services.AddScoped<IPaymentService, PaymentService>();
+builder.Services.AddScoped<IInvoiceService, InvoiceService>();
+builder.Services.AddScoped<IPaymentService, PaymentService>();
 
 // ---- JWT bearer ----
 var jwt = builder.Configuration.GetSection("Jwt").Get<JwtSettings>()!;
