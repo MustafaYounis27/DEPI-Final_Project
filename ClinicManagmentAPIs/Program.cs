@@ -34,7 +34,7 @@ builder.Services.AddSingleton<IJwtTokenService, JwtTokenService>();
 // ---- Domain services (registered as later tasks add them) ----
 builder.Services.AddScoped<IAuthService, AuthService>();
 builder.Services.AddScoped<IAuditLogger, AuditLogger>();
-// builder.Services.AddScoped<IUserService, UserService>();
+builder.Services.AddScoped<IUserService, UserService>();
 // builder.Services.AddScoped<ISpecialtyService, SpecialtyService>();
 // builder.Services.AddScoped<IDoctorService, DoctorService>();
 // builder.Services.AddScoped<IPatientService, PatientService>();
