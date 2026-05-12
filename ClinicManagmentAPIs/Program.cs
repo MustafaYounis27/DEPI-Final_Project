@@ -2,7 +2,7 @@ using System.Text;
 using System.Text.Json.Serialization;
 using ClinicManagmentAPIs.Auth;
 using ClinicManagmentAPIs.Data;
-// using ClinicManagmentAPIs.Services;  // uncomment in Phase 3 when first service lands
+using ClinicManagmentAPIs.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
@@ -32,8 +32,8 @@ builder.Services.AddSingleton<IPasswordHasher, PasswordHasher>();
 builder.Services.AddSingleton<IJwtTokenService, JwtTokenService>();
 
 // ---- Domain services (registered as later tasks add them) ----
-// builder.Services.AddScoped<IAuthService, AuthService>();
-// builder.Services.AddScoped<IAuditLogger, AuditLogger>();
+builder.Services.AddScoped<IAuthService, AuthService>();
+builder.Services.AddScoped<IAuditLogger, AuditLogger>();
 // builder.Services.AddScoped<IUserService, UserService>();
 // builder.Services.AddScoped<ISpecialtyService, SpecialtyService>();
 // builder.Services.AddScoped<IDoctorService, DoctorService>();
