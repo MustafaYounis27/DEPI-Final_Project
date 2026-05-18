@@ -12,7 +12,7 @@ HealthCore is a professional-grade Healthcare Management System (HMS) designed t
 - [Technology Stack](#-technology-stack)
 - [Getting Started](#-getting-started)
 - [Default Credentials](#-default-credentials)
-- [👥 Team Members](#-team-members)
+- [Team Members](#-team-members)
 - [Project Structure](#-project-structure)
 
 ---
