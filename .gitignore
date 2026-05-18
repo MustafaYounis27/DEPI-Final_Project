@@ -6,3 +6,15 @@ coverage/
 *.log
 .env*
 !.env.example
+
+## .NET
+[Bb]in/
+[Oo]bj/
+**/bin/
+**/obj/
+*.user
+*.suo
+.vs/
+*.rsuser
+project.lock.json
+artifacts/
