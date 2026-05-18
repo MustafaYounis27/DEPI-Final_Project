@@ -1,0 +1,6 @@
+{
+  "name": "HealthCore System",
+  "description": "Comprehensive Hospital Management System with secure role-based access for Doctors, Staff, and Administrators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

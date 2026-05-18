@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Downloads\healthcore-system (1)\backend\HealthCore.Infrastructure\bin\Debug\net10.0\HealthCore.Infrastructure.deps.json
+C:\Users\Lenovo\Downloads\healthcore-system (1)\backend\HealthCore.Infrastructure\bin\Debug\net10.0\HealthCore.Infrastructure.runtimeconfig.json
+C:\Users\Lenovo\Downloads\healthcore-system (1)\backend\HealthCore.Infrastructure\bin\Debug\net10.0\HealthCore.Infrastructure.dll
+C:\Users\Lenovo\Downloads\healthcore-system (1)\backend\HealthCore.Infrastructure\bin\Debug\net10.0\HealthCore.Infrastructure.pdb
+C:\Users\Lenovo\Downloads\healthcore-system (1)\backend\HealthCore.Infrastructure\bin\Debug\net10.0\HealthCore.Core.dll
+C:\Users\Lenovo\Downloads\healthcore-system (1)\backend\HealthCore.Infrastructure\bin\Debug\net10.0\HealthCore.Core.pdb
+C:\Users\Lenovo\Downloads\healthcore-system (1)\backend\HealthCore.Infrastructure\obj\Debug\net10.0\HealthCore.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\healthcore-system (1)\backend\HealthCore.Infrastructure\obj\Debug\net10.0\HealthCore.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\healthcore-system (1)\backend\HealthCore.Infrastructure\obj\Debug\net10.0\HealthCore.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\healthcore-system (1)\backend\HealthCore.Infrastructure\obj\Debug\net10.0\HealthCore.Infrastructure.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\healthcore-system (1)\backend\HealthCore.Infrastructure\obj\Debug\net10.0\HealthCore.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\healthcore-system (1)\backend\HealthCore.Infrastructure\obj\Debug\net10.0\HealthCo.8A2FB387.Up2Date
+C:\Users\Lenovo\Downloads\healthcore-system (1)\backend\HealthCore.Infrastructure\obj\Debug\net10.0\HealthCore.Infrastructure.dll
+C:\Users\Lenovo\Downloads\healthcore-system (1)\backend\HealthCore.Infrastructure\obj\Debug\net10.0\refint\HealthCore.Infrastructure.dll
+C:\Users\Lenovo\Downloads\healthcore-system (1)\backend\HealthCore.Infrastructure\obj\Debug\net10.0\HealthCore.Infrastructure.pdb
+C:\Users\Lenovo\Downloads\healthcore-system (1)\backend\HealthCore.Infrastructure\obj\Debug\net10.0\HealthCore.Infrastructure.genruntimeconfig.cache
+C:\Users\Lenovo\Downloads\healthcore-system (1)\backend\HealthCore.Infrastructure\obj\Debug\net10.0\ref\HealthCore.Infrastructure.dll

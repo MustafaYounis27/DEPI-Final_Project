@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="HealthCore.Api/HealthCore.Api.csproj" />
+  <Project Path="HealthCore.Core/HealthCore.Core.csproj" />
+  <Project Path="HealthCore.Infrastructure/HealthCore.Infrastructure.csproj" />
+</Solution>

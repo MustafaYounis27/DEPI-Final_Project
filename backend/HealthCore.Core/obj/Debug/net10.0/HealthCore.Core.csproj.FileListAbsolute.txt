@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Downloads\healthcore-system (1)\backend\HealthCore.Core\bin\Debug\net10.0\HealthCore.Core.deps.json
+C:\Users\Lenovo\Downloads\healthcore-system (1)\backend\HealthCore.Core\bin\Debug\net10.0\HealthCore.Core.dll
+C:\Users\Lenovo\Downloads\healthcore-system (1)\backend\HealthCore.Core\bin\Debug\net10.0\HealthCore.Core.pdb
+C:\Users\Lenovo\Downloads\healthcore-system (1)\backend\HealthCore.Core\obj\Debug\net10.0\HealthCore.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\healthcore-system (1)\backend\HealthCore.Core\obj\Debug\net10.0\HealthCore.Core.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\healthcore-system (1)\backend\HealthCore.Core\obj\Debug\net10.0\HealthCore.Core.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\healthcore-system (1)\backend\HealthCore.Core\obj\Debug\net10.0\HealthCore.Core.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\healthcore-system (1)\backend\HealthCore.Core\obj\Debug\net10.0\HealthCore.Core.dll
+C:\Users\Lenovo\Downloads\healthcore-system (1)\backend\HealthCore.Core\obj\Debug\net10.0\refint\HealthCore.Core.dll
+C:\Users\Lenovo\Downloads\healthcore-system (1)\backend\HealthCore.Core\obj\Debug\net10.0\HealthCore.Core.pdb
+C:\Users\Lenovo\Downloads\healthcore-system (1)\backend\HealthCore.Core\obj\Debug\net10.0\ref\HealthCore.Core.dll
